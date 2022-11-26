@@ -12,6 +12,7 @@
 body {
   font-family: "Roboto", sans-serif;
   color: var(--text-color-primary);
+  letter-spacing: 0.03em;
 }
 
 .hero-section {
@@ -24,6 +25,7 @@ body {
   font-weight: 900;
   font-size: 44px;
   line-height: 1.4;
+  letter-spacing: 0.06em;
 }
 
 .invisible-title {
@@ -73,6 +75,7 @@ body {
 .portfolio-name {
   font-size: 18px;
   line-height: 2;
+  letter-spacing: 0.06em;
 }
 
 .portfolio-type {
@@ -90,6 +93,7 @@ body {
   line-height: 1.9;
   border: none;
   cursor: pointer;
+  letter-spacing: 0.06em;
 }
 
 .hero-button:hover,
@@ -147,6 +151,7 @@ body {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .current {
